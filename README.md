@@ -2,7 +2,7 @@
 
 # Awesome-SLAM-Navigation-Platforms
 
-# Top SLAM Navigation Platforms Ecosystem
+## Top SLAM Navigation Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Simultaneous Localization and Mapping, Autonomous Navigation & Sensor Fusion*  
